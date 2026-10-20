@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 Highly skilled AI / Full Stack Software Developer experienced in designing, developing, integrating, and deploying scalable applications across frontend, backend, database, cloud, and AI ecosystems.
 
-Strong RDBMS expertise in SQL Server, Azure SQL, Oracle, MySQL, and other relational databases, with a proven track record of solving complex technical challenges and delivering solutions from concept to deployment.
+Strong RDBMS expertise in SQL Server, Azure SQL, AWS RDS, Oracle, MySQL, and other relational databases, with a proven track record of solving complex technical challenges and delivering solutions from concept to deployment.
 
 Core AI Technologies: Generative AI, AI Agent Planning and Tool Execution, Agentic AI, RAG with Embeddings and pgvector-based Vector Search, LLM Integration, and Backend API Integration.
 
