@@ -15,8 +15,8 @@ Core AI Technologies: Generative AI, AI Agent Planning and Tool Execution, Agent
 **[Visit My Portfolio](https://rebanawa10-lab.github.io/portfolio/)**
 
 ## Technologies
-- **AI / Generative AI: ** LLMs, RAG, AI Agents, Agentic AI, Vector Database, Tool Calling, Agent Planning, Knowledge Base Integration, LangChain, LangGraph, LangSmith, Supervisor-based Multi-Agent System, LLM Token Usage Tracking & Analytics, Conversation Memory, Jupyter, Docling, NumPy
-- **AI / Platforms: ** OpenAI, Groq, Hugging Face, Tkinter, Boto3, PyTorch
+- **AI / Generative AI:** LLMs, RAG, AI Agents, Agentic AI, Vector Database, Tool Calling, Agent Planning, Knowledge Base Integration, LangChain, LangGraph, LangSmith, Supervisor-based Multi-Agent System, LLM Token Usage Tracking & Analytics, Conversation Memory, Jupyter, Docling, NumPy
+- **AI / Platforms:** OpenAI, Groq, Hugging Face, Tkinter, Boto3, PyTorch
 - **Frontend:** React, Angular, TypeScript, JavaScript, C#, HTML, Material UI, Vite, AG Grid, Chart.js, AJAX
 - **Backend:** Node.js, FastAPI, Python, AWS Elastic Beanstalk AWS EC2, Uvicorn, APIs, WebSocket, Web Services, ASP.NET Core MVC, ASP.NET Core Web API, Razor
 - **Cloud / DevOps:** Azure, AWS, Terraform, Vercel, Render, Docker, Minikube, Kubernetes, Linux, IIS, Jenkins, CI/CD Pipelines, YAML, GitHub, NSSM
